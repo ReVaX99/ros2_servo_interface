@@ -9,7 +9,7 @@ The hardware required to follow the guideline is:
 - Dupont female-female wires for connections.
 
 <p align="center">
-  <img src="doc/MS18_servo.png" alt="Micro Servo MS18" width="350">
+  <img src="doc/MS18_servo.png" alt="Micro Servo MS18" width="250">
 </p>
 
 Software requirements:
