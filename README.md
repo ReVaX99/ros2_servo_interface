@@ -8,7 +8,7 @@ The hardware required to follow the guideline is:
 - Raspberry Pi 5 4GB RAM.
 - Dupont female-female wires for connections.
 
-![Micro Servo MS18](doc/images/MS18_servo.png)
+![Micro Servo MS18](doc/MS18_servo.png)
 
 Software requirements:
 - ROS2 Jazzy on Ubuntu 24.04 LTS Server
