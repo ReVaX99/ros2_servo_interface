@@ -22,5 +22,5 @@ The electrical circuit to be performed from the servo to the RPi is the followin
 - Yellow wire MS18 --> Pin 12 RPi
 - Brown wire MS18 --> Pin 6 RPi
 <p align="center">
-  <img src="doc/images/electrical_scheme.png" alt="Electrical Connections RPi" width="350">
+  <img src="doc/images/electrical_scheme.png" alt="Electrical Connections RPi">
 </p>
