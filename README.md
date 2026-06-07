@@ -9,8 +9,8 @@ The hardware required to follow the guideline is:
 - Dupont female-female wires for connections.
 
 <p align="center">
-  <img src="doc/images/MS18_servo.png" alt="Micro Servo MS18" width="250">
-  <img src="doc/images/raspberry5.png" alt="Raspberry Pi 5" width="250">
+  <img src="doc/images/MS18_servo.png" alt="Micro Servo MS18" width="250" height="250">
+  <img src="doc/images/raspberry5.png" alt="Raspberry Pi 5" width="250" height="250">
 </p>
 
 Software requirements:
