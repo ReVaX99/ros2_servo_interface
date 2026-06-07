@@ -18,6 +18,9 @@ Software requirements:
 
 ## Electrical Installation
 The electrical circuit to be performed from the servo to the RPi is the following one:
-- Red wire from MS18 -->
-- Yellow wire -->
-- Brown wire -->
+- Red wire MS18 --> Pin 4 RPi
+- Yellow wire MS18 --> Pin 12 RPi
+- Brown wire MS18 --> Pin 6 RPi
+<p align="center">
+  <img src="doc/images/electrical_scheme.png" alt="Electrical Connections RPi" width="350">
+</p>
